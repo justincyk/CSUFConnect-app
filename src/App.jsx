@@ -13,7 +13,7 @@ import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 
 import Navigation from "./routes/navigation/navigation.component";
-import Home from "./routes/home/home";
+import Home from "./routes/home/Home";
 import EventCreationPage from "./routes/event-creation-page/event-creation-page";
 import Authentication from "./routes/authentication/authentication.component";
 import Events from "./routes/events-page/events.component";
