@@ -30,6 +30,7 @@ This is the frontend application for **CSUFConnect**, a community-driven web pla
 - Yarn (used as the package manager)
 - Firebase Admin SDK for backend (required if running full stack)
 - Backend running at: `http://localhost:8080` (or update the environment if different)
+- Backend repository and instructions: [CSUFConnect-backend-api](https://github.com/justincyk/CSUFConnect-backend-api.git)
 
 ### 1. Clone the Repository
 ```bash
